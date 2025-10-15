@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+}
+
+body{
+    background-color: yellowgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    background-color: rgb(50, 205, 19);
+    border-radius: 15px;
+}
